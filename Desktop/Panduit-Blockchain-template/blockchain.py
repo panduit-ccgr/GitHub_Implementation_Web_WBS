@@ -8,7 +8,9 @@ import requests
 from flask import Flask, jsonify, request
 
 """ Courtland Griffin blockchain program for Panduit App Dev Innovation review
-# Date: 12/15/2017 """
+# Date: 12/15/2017
+update
+"""
 
 class Blockchain:
     def __init__(self):
